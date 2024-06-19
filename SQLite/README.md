@@ -1,0 +1,1 @@
+Make sure to provide a copy of the sqlite3.dll and sqlite3.def into the Plugins folder that should be included in your Assets Directory
